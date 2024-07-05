@@ -8,7 +8,8 @@ function page() {
   return (
     <>
     <div className={styles.box}>
-      <Contact/>
+      <div>Questions page</div>
+ 
     </div>
     </>
   )
