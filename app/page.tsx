@@ -12,6 +12,7 @@ function page() {
     <div className={styles.box}>
     <Subnav/>
     <Burgernav/>
+    <h1>გამარჯობათ ალგანი დენტის ვებსაიტზე</h1>
     </div>
     </>
   )
