@@ -13,6 +13,7 @@ function page() {
     <Subnav/>
     <Burgernav/>
     <h1>გამარჯობათ ალგანი დენტის ვებსაიტზე</h1>
+    <h2>Test h2 tag</h2>
     </div>
     </>
   )
