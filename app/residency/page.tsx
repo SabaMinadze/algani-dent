@@ -8,6 +8,7 @@ function page() {
     <>
     <Link href="/residency/theraphy"><Card name="თერაპიული რეზიდენტურა"/></Link>
     <Link href="/residency/orthodontic"><Card name="ორთოდონტიული რეზიდენტურა"/></Link>
+    <Link href="/residency/children"><Card name="ბავშვთა თერაპიული სტომატოლოგია"/></Link>
     </>
   )
 }
