@@ -15,6 +15,8 @@ const Burgernav = () => (
             <br/>
             <Link href="/achievements" className={styles.txt}><div>ჩვენი მიღწევები</div></Link>
             <br/>
+            <Link href="/residency" className={styles.txt}><div>რეზიდენტურა</div></Link>
+            <br/>
             <Link href="/questions" className={styles.txt}><div>კითხვები</div></Link>
             <br/>
             <Link href="/servicesandprices" className={styles.txt}><div>სერვისები და ფასები</div></Link>
