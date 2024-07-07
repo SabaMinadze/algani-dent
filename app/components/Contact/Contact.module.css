@@ -8,6 +8,7 @@
     font-size: 20px;
     background-color: rgb(43, 43, 43);
     cursor: pointer;
+    color: white;
 }
 
 .email{
@@ -16,6 +17,7 @@
     font-size: 20px;
     background-color: rgb(43, 43, 43);
     cursor: pointer;
+    color: white;
 
 }
 
@@ -25,6 +27,7 @@
     font-size: 30px;
     background-color: rgb(43, 43, 43);
     cursor: pointer;
+    color: white;
 }
 
 
@@ -48,6 +51,7 @@
     .box{
         text-align: left;
         margin-left: 5px;
+        color: white;
     }
     
 
@@ -56,6 +60,7 @@
         width: 380px;
         font-size: 25px;
         background-color: rgb(43, 43, 43);
+        color: white;
 
     }
 
