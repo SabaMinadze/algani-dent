@@ -12,14 +12,6 @@ function page() {
     <div className={styles.box}>
     <Subnav/>
     <Burgernav/>
-    <Image
-          className={styles.logo}
-          src="/favicon.ico"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
-          priority
-        />
     </div>
     </>
   )
