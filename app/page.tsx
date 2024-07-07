@@ -3,7 +3,7 @@ import Subnav from './components/Subnav/Subnav'
 import Video from './components/Video/Video'
 import styles from './page.module.css'
 import Burgernav from './components/Burgernav/Burgernav'
-import Link from 'next/link'
+import Image from 'next/image'
 
 
 function page() {
@@ -12,6 +12,14 @@ function page() {
     <div className={styles.box}>
     <Subnav/>
     <Burgernav/>
+    <Image
+          className={styles.logo}
+          src="/favicon.ico"
+          alt="Next.js Logo"
+          width={180}
+          height={37}
+          priority
+        />
     </div>
     </>
   )
