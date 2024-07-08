@@ -19,7 +19,7 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
-    background-color: rgb(15, 39, 173);
+    background-color: rgb(99, 148, 237);
     margin: 0;
 }
 
