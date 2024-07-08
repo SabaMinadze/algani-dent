@@ -9,8 +9,9 @@
 
 
     .contentcontainer{
-        background-color: cornflowerblue;
+        background-color: rgb(15, 39, 173);
         color: aliceblue;
+        /* background-color: cornflowerblue; */
 
     }
 
@@ -39,6 +40,7 @@
 @media (min-width: 220px) and (max-width: 950px){
     .contentcontainer{
         color: rgb(15, 39, 173);
+        /* background-color: cornflowerblue; */
 
     }
 
