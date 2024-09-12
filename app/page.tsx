@@ -10,7 +10,6 @@ function page() {
   return (
     <>
     <div className={styles.box}>
-    <Subnav/>
     <Burgernav/>
     </div>
     </>
