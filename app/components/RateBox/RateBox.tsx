@@ -7,7 +7,7 @@ function RateBox() {
   return (
     <>
     <div className={s.rateBox}>
-      <Image src={saba} height={100} width={100} className={s.rateBoxImg}/>
+      <Image src={saba} height={90} width={90} className={s.rateBoxImg}/>
     </div>
     </>
   )
