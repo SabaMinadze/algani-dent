@@ -1,0 +1,19 @@
+@media (max-width: 1200px) {
+
+}
+
+@media (max-width: 900px) {
+    .mainTxt{
+        font-size: 22px;
+        margin-top: 25px;
+    }
+
+}
+
+@media (max-width: 600px) {
+
+}
+
+@media (max-width: 400px) {
+
+}
