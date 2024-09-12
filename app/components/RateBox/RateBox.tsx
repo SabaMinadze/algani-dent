@@ -11,10 +11,11 @@ function RateBox() {
         <Image src={saba} height={90} width={90} className={s.rateBoxImg} alt={'error'}/>
         <h1 className={s.name}>საბა მინაზე</h1>
       </div>
-      <p className={s.txt}>ეს არის ადგილი, სადაც  მეგობრობა, ნდობა და პასუხისმგებლობა ღირებულია,
-         რადგან თითოეული მენტორი თითოეული სტუდენტისთვის აბსოლუტურ  რესურსს და ენერგიას
-          ხარჯავს, რომ მათი ცოდნა იყოს სიღრმისეული და მყარი, როგორც თეორიულ ნაწილში ასევე
-           პრაქტიკულ საკითხში.</p>
+      <p className={s.txt}>Lorem ipsum dolor sit amet consectetur,
+         adipisicing elit. Aut, distinctio et placeat molestiae
+          atque repudiandae voluptate dolore accusamus, quidem iusto 
+          cumque dolorem necessitatibus consequuntur dolor commodi consequatur
+           magni itaque earum!</p>
     </div>
     </>
   )
