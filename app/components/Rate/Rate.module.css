@@ -3,12 +3,12 @@
 }
 
 .rateText{
-    margin-left: 200px;
+    margin-left: 150px;
     font-weight: 900;
 }
 
 .rateBoxes{
     display: flex;
     gap: 30px;
-    margin-left: 200px;
+    margin-left: 150px;
 }
