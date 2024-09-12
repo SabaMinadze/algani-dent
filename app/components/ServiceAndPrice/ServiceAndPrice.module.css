@@ -7,3 +7,31 @@
 .simpleTxtr{
     margin-top: 50px;
 }
+
+
+@media (max-width: 1200px) {
+
+
+}
+
+@media (max-width: 900px) {
+    .simpleTxtr{
+        margin-top: 50px;
+        font-size: 23px;
+    }
+
+    .simpleTxt{
+        font-size: 21px;
+
+    }
+
+
+}
+
+@media (max-width: 600px) {
+
+}
+
+@media (max-width: 400px) {
+
+}
