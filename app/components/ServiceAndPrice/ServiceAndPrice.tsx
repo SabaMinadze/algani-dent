@@ -9,7 +9,7 @@ function ServiceAndPrice() {
   return (
     <>
     <center><div>
-        <h1 className={s.simpleTxtr}>გამარჯობათ ჩვენ გვაქვს ყველაზე ხელმისაწვდომი სერვისები ფასები</h1>
+        <h1 className={s.simpleTxtr}>გამარჯობათ ჩვენ გვაქვს ყველაზე ხელმისაწვდომი სერვისები და ფასები</h1>
         <h1 className={s.simpleTxt}>იხელედ ჩვენი სერვისები და ფასები აქ</h1>
         <Image src={arrowImage} alt={''} className={s.arrImage}/>
         <br />
