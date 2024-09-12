@@ -1,6 +1,6 @@
 .mainBox2{
     background-color: red;
-    margin-top: -450px;
+    margin-top: -500px;
     width: 1200px;
     
 }
@@ -25,4 +25,9 @@
     color: white;
     border: 1px solid white;
     transition: 0.3s;
+}
+
+
+.img2{
+    border-radius: 270px;
 }
