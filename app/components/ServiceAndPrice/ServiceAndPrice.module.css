@@ -1,0 +1,29 @@
+/* components/ArrowButton.module.css */
+.arrowButton {
+    background-color: cornflowerblue;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+    width: 10px; /* Adjust width as needed */
+    height: 50px; /* Adjust height as needed */
+  }
+  
+  .arrow {
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 15px solid white; /* Arrow color */
+  }
+
+
+  .line{
+    width: 40px;
+    height: 400px;
+    background-color: white;
+  }
