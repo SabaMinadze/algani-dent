@@ -13,25 +13,7 @@
     margin-top: 10px;
 }
 
-.btnMain{
-    height: 70px;
-    width: 230px;
-    margin-top: 40px;
-    font-size: 21px;
-    color: rgb(99, 148, 237);
-    background-color: white;
-    border-color: white;
-    border: 1px solid white;
-    border-radius: 5px;
-    cursor: pointer;
-}
 
-.btnMain:hover{
-    background: rgb(99, 148, 237);
-    color: white;
-    border: 1px solid white;
-    transition: 0.3s;
-}
 
 .img2{
     margin-top: 60px;
