@@ -8,7 +8,7 @@ function RateBox() {
     <>
     <div className={s.rateBox}>
       <div className={s.flexBox}>
-        <Image src={saba} height={90} width={90} className={s.rateBoxImg}/>
+        <Image src={saba} height={90} width={90} className={s.rateBoxImg} alt={'error'}/>
         <h1 className={s.name}>საბა მინაზე</h1>
       </div>
       <p>რაც AlgoUni-ს შემოვუერთდი, დიდ პროგრესს ვხედავ ჩემი სწავლის პროცესში.
