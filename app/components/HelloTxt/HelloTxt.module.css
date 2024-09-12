@@ -6,6 +6,7 @@
     padding: 20px; /* Added padding */
     box-sizing: border-box; /* Ensure padding is included in width */
     margin-top: -550px;
+    color: white;
 }
 
 .btn4 {
@@ -45,6 +46,7 @@
 @media (max-width: 1200px) {
     .mainBox2{
         margin-top: -700px;
+        color: white;
 
     }
     .txt {

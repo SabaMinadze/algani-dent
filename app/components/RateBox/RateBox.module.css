@@ -7,6 +7,7 @@
     margin-top: 30px;
     padding: 20px; /* Added padding for spacing */
     box-sizing: border-box; /* Ensure padding is included in the width */
+    color: white;
 }
 
 .rateBoxImg {
@@ -37,6 +38,7 @@
     .rateBox {
         width: 100%; /* Full width on smaller screens */
         padding: 15px; /* Adjust padding */
+        color: white;
     }
 
     .name {

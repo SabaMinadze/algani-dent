@@ -1,4 +1,8 @@
 @media (max-width: 1200px) {
+    .mainBox1{
+        color: white;
+    }
+
 
 }
 
@@ -6,6 +10,10 @@
     .mainTxt{
         font-size: 22px;
         margin-top: 25px;
+    }
+
+    .mainBox1{
+        color: white;
     }
 
 }
