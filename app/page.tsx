@@ -5,15 +5,15 @@ import styles from './page.module.css'
 import Burgernav from './components/Burgernav/Burgernav'
 import Image from 'next/image'
 import HelloTxt from './components/HelloTxt/HelloTxt'
+import Rate from './components/Rate/Rate'
 
 
 function page() {
   return (
     <>
-    <div className={styles.box}>
     <Burgernav/>
-    </div>
     <HelloTxt/>
+    <Rate/>
     </>
   )
 }
