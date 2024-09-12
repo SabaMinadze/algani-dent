@@ -1,6 +1,6 @@
 .mainBox2{
-    background-color: red;
-    margin-top: -500px;
+    
+    margin-top: -550px;
     width: 1200px;
     
 }
@@ -30,4 +30,9 @@
 
 .img2{
     border-radius: 270px;
+}
+
+.txt{
+    font-size: 50px;
+    color: rgb(255, 255, 255);
 }
