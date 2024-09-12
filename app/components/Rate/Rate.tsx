@@ -9,6 +9,9 @@ function Rate() {
         <h1 className={s.rateText}>რას ამბობენ პაციენტები ჩვენზე</h1>
         <div className={s.rateBoxes}>
             <RateBox/>
+            <RateBox/>
+            <RateBox/>
+            <RateBox/>
         </div>
     </div>
     </>
