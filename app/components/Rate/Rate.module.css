@@ -7,6 +7,7 @@
     font-weight: 900;
     font-size: 24px; /* Adjusted font size for better responsiveness */
     margin: 0 auto; /* Centered the text horizontally */
+    color: white;
 }
 
 .rateBoxes {
