@@ -6,6 +6,11 @@
 
 .simpleTxtr{
     margin-top: 50px;
+    color: white;
+}
+
+.simpleTxt{
+    color: white;
 }
 
 
@@ -22,7 +27,7 @@
 
     .simpleTxt{
         font-size: 21px;
-
+        color: white;
     }
 
 
