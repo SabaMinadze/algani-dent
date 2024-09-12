@@ -11,7 +11,6 @@ function Rate() {
             <RateBox/>
             <RateBox/>
             <RateBox/>
-            <RateBox/>
         </div>
     </div>
     </>
