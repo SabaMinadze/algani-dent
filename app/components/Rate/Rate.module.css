@@ -1,14 +1,39 @@
-.rateMainBox{
+.rateMainBox {
     margin-top: 50px;
+    text-align: center; /* Center the text */
 }
 
-.rateText{
-    margin-left: 150px;
+.rateText {
     font-weight: 900;
+    font-size: 24px; /* Adjusted font size for better responsiveness */
+    margin: 0 auto; /* Centered the text horizontally */
 }
 
-.rateBoxes{
+.rateBoxes {
     display: flex;
+    flex-wrap: wrap; /* Allow items to wrap to the next line */
     gap: 30px;
-    margin-left: 150px;
+    justify-content: center; /* Center the boxes */
+    margin: 20px auto; /* Centered the container horizontally */
+}
+
+/* Responsive styles */
+@media (max-width: 900px) {
+    .rateText {
+        font-size: 20px;
+    }
+
+    .rateBoxes {
+        gap: 20px;
+    }
+}
+
+@media (max-width: 600px) {
+    .rateText {
+        font-size: 18px;
+    }
+
+    .rateBoxes {
+        gap: 15px;
+    }
 }

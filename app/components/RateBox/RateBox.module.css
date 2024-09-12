@@ -1,28 +1,50 @@
-.rateBox{
-    height: 300px;
-    width: 400px;
+.rateBox {
+    height: auto; /* Adjust height to be flexible */
+    width: 100%; /* Full width for responsiveness */
+    max-width: 400px; /* Max width for larger screens */
     background-color: darkblue;
     border-radius: 20px;
     margin-top: 30px;
+    padding: 20px; /* Added padding for spacing */
+    box-sizing: border-box; /* Ensure padding is included in the width */
 }
 
-.rateBoxImg{
+.rateBoxImg {
     border-radius: 15px;
-    margin-top: -10px;
-    margin-left: 40px;
     border: 5px solid black;
+    width: 90px; /* Fixed width for image */
+    height: 90px; /* Fixed height for image */
 }
 
-.flexBox{
+.flexBox {
     display: flex;
+    align-items: center; /* Center items vertically */
+    justify-content: center; /* Center items horizontally */
 }
 
-.name{
-    margin-left: 30px;
-    width: 10px;
+.name {
+    margin-left: 15px; /* Adjusted margin */
+    font-size: 18px; /* Adjusted font size */
 }
 
-.txt{
-    margin-left: 40px;
-    width: 310px;
+.txt {
+    margin-top: 10px; /* Adjusted margin for spacing */
+    font-size: 16px; /* Adjusted font size for better readability */
+}
+
+/* Responsive styles */
+@media (max-width: 600px) {
+    .rateBox {
+        width: 100%; /* Full width on smaller screens */
+        padding: 15px; /* Adjust padding */
+    }
+
+    .name {
+        font-size: 16px;
+        margin-left: 10px;
+    }
+
+    .txt {
+        font-size: 14px;
+    }
 }
