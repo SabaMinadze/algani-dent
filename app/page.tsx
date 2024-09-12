@@ -7,6 +7,7 @@ import Image from 'next/image'
 import HelloTxt from './components/HelloTxt/HelloTxt'
 import Rate from './components/Rate/Rate'
 import ServiceAndPrice from './components/ServiceAndPrice/ServiceAndPrice'
+import Main from './components/Main/Main'
 
 
 function page() {
@@ -15,6 +16,7 @@ function page() {
     <Burgernav/>
     <HelloTxt/>
     <ServiceAndPrice/>
+    <Main/>
     <Rate/>
     </>
   )
