@@ -1,15 +1,15 @@
 import React from 'react'
 import s from "./RateBox.module.css"
 import Image from 'next/image'
-import saba from "./saba.jpg"
+import tooth from "../../../public/tooth.png"
 
 function RateBox() {
   return (
     <>
     <div className={s.rateBox}>
       <div className={s.flexBox}>
-        <Image src={saba} height={90} width={90} className={s.rateBoxImg} alt={'error'}/>
-        <h1 className={s.name}>საბა მინაზე</h1>
+        <Image src={tooth} height={90} width={90} className={s.rateBoxImg} alt={'error'}/>
+        <h1 className={s.name}>გიორგი ტესტიაშვილი</h1>
       </div>
       <p className={s.txt}>Lorem ipsum dolor sit amet consectetur,
          adipisicing elit. Aut, distinctio et placeat molestiae
