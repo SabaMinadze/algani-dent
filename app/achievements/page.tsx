@@ -12,7 +12,7 @@ function page() {
         <br/><br/>
         <Image src="/kbili2.jpg" width={480} height={300} alt="eror" className={styles.img}/>
         <br/><br/>
-        <Image src="/kbili2.jpg" width={480} height={300} alt="eror" className={styles.img}/>
+        <Image src="/kbili1777.jpg" width={480} height={300} alt="eror" className={styles.img}/>
         <br/><br/>
     </div>
     <br/><br/>
@@ -30,7 +30,7 @@ function page() {
       <br/><br/>
       <Image src="/kbili8.jpg" width={480} height={300} alt="eror" className={styles.img}/>
       <br/><br/>
-      <Image src="/kbili9.jpg" width={480} height={300} alt="eror" className={styles.img}/>
+      <Image src="/kbili999.jpg" width={480} height={300} alt="eror" className={styles.img}/>
       <br/><br/>
     </div>
     <br/><br/>
